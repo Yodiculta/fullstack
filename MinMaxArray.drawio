@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T08:24:11.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" etag="LVpHrm7DWt9biXphL1Q3" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T08:25:02.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.160 YaBrowser/22.5.4.904 Yowser/2.5 Safari/537.36" etag="hoWO5htyXp_hsp1z42Su" version="20.0.4" type="github">
   <diagram id="_PqSA9Pv_snBcvRDJ_t1" name="Page-1">
-    <mxGraphModel dx="197" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="462" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,7 +356,7 @@
         <mxCell id="c1LPF4VAhOiQwFTTLrdH-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c1LPF4VAhOiQwFTTLrdH-155" target="c1LPF4VAhOiQwFTTLrdH-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c1LPF4VAhOiQwFTTLrdH-155" value="fin sumn of elements between max and min" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c1LPF4VAhOiQwFTTLrdH-155" value="fin summ of elements between max and min" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1910" y="68" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c1LPF4VAhOiQwFTTLrdH-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c1LPF4VAhOiQwFTTLrdH-157" target="c1LPF4VAhOiQwFTTLrdH-165">
@@ -586,7 +586,7 @@
         <mxCell id="c1LPF4VAhOiQwFTTLrdH-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c1LPF4VAhOiQwFTTLrdH-206" target="c1LPF4VAhOiQwFTTLrdH-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c1LPF4VAhOiQwFTTLrdH-206" value="fin sumn of elements between max and min" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c1LPF4VAhOiQwFTTLrdH-206" value="Average of array" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2780" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c1LPF4VAhOiQwFTTLrdH-207" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c1LPF4VAhOiQwFTTLrdH-208" target="c1LPF4VAhOiQwFTTLrdH-216">
